@@ -25,7 +25,7 @@
 <!-- Objectif futur -->
 <h3 align="left" style="color:#6a0dad;">Next Goal: Learn Rust</h3>
 <p>
-  🎯 My next goal is to master the <strong>Rust</strong> programming language, known for its memory safety, performance, and efficiency in systems programming. Rust is especially valued in fields where resource management and safety are critical, and I’m excited to add it to my skill set!
+  🎯 My next goal is to master the <strong>Rust</strong> programming language.
 </p>
 
 <!-- Connexions -->

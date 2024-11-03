@@ -5,20 +5,20 @@
 
 <h3 align="left">Current Project: Webserver</h3>
 <p>
-  <a href="https://github.com/42OK42/webserv" target="_blank">Webserver</a> est un projet collaboratif développé dans le cadre de l'école 42. Il vise à créer un serveur HTTP capable de gérer des requêtes et de fournir des réponses conformément aux standards du protocole HTTP/1.1.
-  Ce projet a pour objectif d'approfondir la compréhension des protocoles réseau et des fondements du web, ainsi que de développer des compétences en programmation C++ dans un environnement serveur.
+  <a href="https://github.com/42OK42/webserv" target="_blank">Webserver</a> is a collaborative project developed as part of 42's curriculum. It aims to create an HTTP server capable of handling requests and providing responses according to HTTP/1.1 standards.
+  This project focuses on deepening understanding of network protocols and web fundamentals, as well as developing C++ programming skills in a server environment.
 </p>
 
-- 🔍 Dans ce projet, je travaille principalement sur :
-  - 📜 Gestion des requêtes HTTP et réponses
-  - 📡 Implémentation de la connexion avec des sockets réseau
-  - 🛠 Optimisation des performances et de la stabilité
+- 🔍 In this project, I am primarily working on:
+  - 📜 Handling HTTP requests and responses
+  - 📡 Implementing connections with network sockets
+  - 🛠 Optimizing performance and stability
 
-- 🌐 [Lien vers le projet GitHub](https://github.com/42OK42/webserv)
+- 🌐 [Link to the GitHub project](https://github.com/42OK42/webserv)
 
 <h3 align="left">Next Goal: Learn Rust</h3>
 <p>
-  🎯 Mon prochain objectif est de maîtriser le langage <strong>Rust</strong>, un langage moderne réputé pour sa sécurité mémoire, ses performances et son efficacité dans la programmation système. Rust est particulièrement apprécié dans les domaines où la sécurité et la gestion fine des ressources sont essentielles, et je suis impatiente de l'ajouter à mon ensemble de compétences !
+  🎯 My next goal is to master the <strong>Rust</strong> programming language, known for its memory safety, performance, and efficiency in systems programming. Rust is especially valued in fields where resource management and safety are critical, and I’m excited to add it to my skill set!
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,4 +28,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact" alt="elecarlier" /></p>

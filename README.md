@@ -12,13 +12,13 @@
 - 🔍 In this project, I am primarily working on:
   - 📜 Handling HTTP requests and responses
   - 📡 Implementing connections with network sockets
-  - 🛠 Optimizing performance and stability
+  
 
 - 🌐 [Link to the GitHub project](https://github.com/42OK42/webserv)
 
 <h3 align="left">Next Goal: Learn Rust</h3>
 <p>
-  🎯 My next goal is to master the <strong>Rust</strong> programming language, known for its memory safety, performance, and efficiency in systems programming. Rust is especially valued in fields where resource management and safety are critical, and I’m excited to add it to my skill set!
+  🎯 My next goal is to master the <strong>Rust</strong> programming language!
 </p>
 
 <h3 align="left">Connect with me:</h3>

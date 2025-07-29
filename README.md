@@ -4,9 +4,9 @@
 <h1 align="center" style="color:#6a0dad;">Hallo Welt, I'm Eléonore</h1>
 <h3 align="center" style="color:#6a0dad;"> Software engineering graduate from 42 Berlin</h3>
 
-🌍 Based in Berlin, originally from Belgium
-💼 Currently looking for my first opportunity as a backend/software engineer
-📫 Reach me: eleonorecarlier@hotmail.be
+- 🌍 Based in Berlin, originally from Belgium
+- 💼 Currently looking for my first opportunity as a backend/software engineer
+- 📫 Reach me: eleonorecarlier@hotmail.be
 
 <h3 align="left" style="color:#6a0dad;">🛠️ Previous Highlight: Pong Tournament Web App</h3>
 <p>

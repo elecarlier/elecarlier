@@ -1,15 +1,14 @@
-<!-- Badge visiteur en violet -->
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elecarlier.elecarlier&left_color=%236a0dad&right_color=%236a0dad" />
 
-<!-- En-tête -->
 <h1 align="center" style="color:#6a0dad;">Hallo Welt, I'm Eléonore</h1>
-<h3 align="center" style="color:#6a0dad;">Software engineering student at 42 Berlin.</h3>
+<h3 align="center" style="color:#6a0dad;"> Software engineering graduate from 42 Berlin</h3>
 
-- 🌍 Based in Berlin, Germany, originally from Belgium.  
-- 📫 How to reach me: **eleonorecarlier@hotmail.be**
+🌍 Based in Berlin, originally from Belgium
+💼 Currently looking for my first opportunity as a backend/software engineer
+📫 Reach me: eleonorecarlier@hotmail.be
 
-<!-- Projet actuel -->
-<h3 align="left" style="color:#6a0dad;">Current Project: Pong Tournament Web App</h3>
+<h3 align="left" style="color:#6a0dad;">🛠️ Previous Highlight: Pong Tournament Web App</h3>
 <p>
 A full-stack web application enabling users to play real-time Pong matches either locally on the same keyboard or remotely across devices. The app supports AI opponents with adaptive gameplay and organizes multiplayer tournaments with dynamic brackets and match scheduling.
 
@@ -19,21 +18,13 @@ The entire platform is containerized using Docker, allowing easy deployment and 
 
 </p>
 
-- 🌐 <a href="https://github.com/elecarlier/pong-web-app" target="_blank" style="color:#6a0dad;">Link to the GitHub project</a>
 
-<!-- Dernier projet -->
-<h3 align="left" style="color:#6a0dad;">Latest Project: Webserv</h3>
+<!-- What's next -->
+<h3 align="left" style="color:#6a0dad;">💡 What's next?</h3>
 <p>
-  <a href="https://github.com/42OK42/webserv" target="_blank" style="color:#6a0dad;">Webserv</a> is a collaborative project developed as part of 42's curriculum. It implements an HTTP/1.1-compliant web server in C++98, handling non-blocking I/O, multiple ports, error management, and basic file uploads.  
-  Focused on deepening low-level network and server-side programming skills.
+I'm currently looking to join a team where I can keep learning, contribute meaningfully, and grow as a developer — ideally with a focus on backend systems, infrastructure, or automation.<br>
+While I explore job opportunities, I'm also planning my next side project — feel free to reach out if you have suggestions or want to collaborate!
 </p>
-
--  My contributions included:
-  - Parsing and managing HTTP requests/responses  
-  - Handling socket connections  
-  - Ensuring performance and robustness
-
-- 🌐 <a href="https://github.com/42OK42/webserv" target="_blank" style="color:#6a0dad;">Link to the GitHub project</a>
 
 <!-- Connexions -->
 <h3 align="left" style="color:#6a0dad;">Connect with me:</h3>

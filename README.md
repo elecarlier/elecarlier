@@ -35,4 +35,6 @@ While I explore job opportunities, I'm also planning my next side project — fe
 </p>
 
 <!-- Statistiques GitHub -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact&theme=dracula" alt="elecarlier" /></p>
+[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact&theme=dracula" alt="elecarlier" /></p>
+](https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact&theme=dracula&cache_seconds=0
+)

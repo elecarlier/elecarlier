@@ -5,8 +5,7 @@
 
 - 🌍 Based in Berlin, originally from Belgium  
 - 💻 Currently enrolled in the **Full Stack Open** course (React, Node.js, TypeScript)  
-- ⚡ Upcoming projects: **Hackathon TON x 42** & **Unity Piscine at 42**  
-- 📫 Reach me: eleonorecarlier@hotmail.be  
+- 📫 Reach me: **eleonorecarlier@hotmail.be**  
 
 ---
 
@@ -15,18 +14,16 @@
 A full-stack web application enabling users to play real-time Pong matches either locally or remotely.  
 It features AI opponents, live tournaments, secure authentication, match stats, and multilingual support.  
 
-Built with **TypeScript**, **Fastify (Node.js)**, **Tailwind CSS**, and **WebSockets** for real-time interaction.  
-Everything runs smoothly through **Dockerized microservices** for easy deployment and scalability.
+Built with <b>TypeScript</b>, <b>Fastify (Node.js)</b>, <b>Tailwind CSS</b>, and <b>WebSockets</b> for real-time interaction.  
+Everything runs in <b>Dockerized microservices</b> for easy deployment and scalability.
 </p>
 
 ---
 
-<h3 align="left" style="color:#6a0dad;">💡 What's next?</h3>
+<h3 align="left" style="color:#6a0dad;">💡 Currently learning</h3>
 <p>
 I'm expanding my skills with React and modern full-stack development through the <b>Full Stack Open</b> course.  
-At the same time, I’m preparing for new challenges — the <b>TON x 42 hackathon</b> and the <b>Unity Piscine</b>.  
-<br><br>
-I’m always open to collaborations and curious tech projects, so feel free to reach out or share ideas!
+I’m always open to collaborations and curious tech projects — feel free to reach out!
 </p>
 
 ---
@@ -36,6 +33,24 @@ I’m always open to collaborations and curious tech projects, so feel free to r
   <a href="https://linkedin.com/in/%c3%a9l%c3%a9onore-carlier-53b90b308/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+</p>
+
+---
+
+<h3 align="left" style="color:#6a0dad;">🧰 Tech Stack</h3>
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <br/>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </p>
 
 ---

@@ -21,7 +21,7 @@
 ## 💡 Current Focus
 - Research and experimentation in **lenticular photography**  
 - Exploring innovative ways to combine tech and visual storytelling  
-
+---
 <h3 align="left" style="color:#6a0dad;">🛠️ Project Highlight: Pong Tournament Web App</h3>
 <p>
 A full-stack web application enabling users to play real-time Pong matches either locally or remotely.  

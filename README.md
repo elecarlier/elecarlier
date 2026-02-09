@@ -3,11 +3,24 @@
 <h1 align="center" style="color:#6a0dad;">Hallo Welt, I'm Eléonore</h1>
 <h3 align="center" style="color:#6a0dad;">Software engineering graduate from 42 Berlin</h3>
 
-- 🌍 Based in Berlin, originally from Belgium  
-- 💻 Currently enrolled in the **Full Stack Open** course (React, Node.js, TypeScript)  
+
+🎓 Graduate of **42 Berlin**  
+🌍 Temporarily based in **Paris, France**, originally from Belgium 🇧🇪  
+🔬 Currently exploring **lenticular photography research**  
+
 - 📫 Reach me: **eleonorecarlier@hotmail.be**  
 
 ---
+## 🌟 About Me
+- Passionate about technology and creative projects  
+- Combining software knowledge with visual arts research  
+- Always curious to learn and experiment  
+
+---
+
+## 💡 Current Focus
+- Research and experimentation in **lenticular photography**  
+- Exploring innovative ways to combine tech and visual storytelling  
 
 <h3 align="left" style="color:#6a0dad;">🛠️ Project Highlight: Pong Tournament Web App</h3>
 <p>
@@ -20,13 +33,6 @@ Everything runs in <b>Dockerized microservices</b> for easy deployment and scala
 
 ---
 
-<h3 align="left" style="color:#6a0dad;">💡 Currently learning</h3>
-<p>
-I'm expanding my skills with React and modern full-stack development through the <b>Full Stack Open</b> course.  
-I’m always open to collaborations and curious tech projects — feel free to reach out!
-</p>
-
----
 
 <h3 align="left" style="color:#6a0dad;">🌐 Connect with me:</h3>
 <p align="left">

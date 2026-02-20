@@ -2,7 +2,7 @@
 
 > *Software Engineer · Visual Arts Enthusiast · 42 Berlin Graduate*
 
-🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; Based in Paris, France 🇧🇪 &nbsp;|&nbsp; eleonorecarlier@hotmail.be
+🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; Based in Paris, France &nbsp;|&nbsp; From Belgium 🇧🇪 &nbsp;|&nbsp; eleonorecarlier@hotmail.be
 
 ---
 

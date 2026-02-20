@@ -2,21 +2,21 @@
 
 > *Software Engineer · Visual Arts Enthusiast · 42 Berlin Graduate*
 
-🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; 🌍 Paris, France &nbsp;|&nbsp; 🇧🇪 From Belgium &nbsp;|&nbsp; 📫 eleonorecarlier@hotmail.be
+🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; Based in Paris, France 🇧🇪 &nbsp;|&nbsp; eleonorecarlier@hotmail.be
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm a software engineer with a passion for combining technical precision with creative vision. Currently exploring the intersection of code and visual arts through research in **lenticular photography**.
 
-- 🔬 Researching lenticular photography & depth-based imaging
-- 🧩 Love solving algorithmic puzzles (Advent of Code addict)
-- 🎨 Passionate about projects where tech meets art
+- Researching lenticular photography & depth-based imaging
+- Love solving algorithmic puzzles (Advent of Code addict)
+- Passionate about projects where tech meets art
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -29,50 +29,49 @@ I'm a software engineer with a passion for combining technical precision with cr
 
 ---
 
-## 🎓 42 Berlin — Group Projects
+## 42 Berlin — Group Projects
 
 These projects were built collaboratively at 42 Berlin, requiring strong communication, code review, and teamwork.
 
 | Project | Description | Tech | Team |
 |---|---|---|---|
-| [🏓 Transcendence](https://github.com/elecarlier/Transcendence) | Full-stack real-time Pong platform with tournaments, chat, user profiles and microservices architecture | TypeScript, Vue 3, Fastify, RabbitMQ, WebSockets, Docker | Group |
-| [🌐 webserv](https://github.com/elecarlier/webserv) | From-scratch HTTP/1.1 web server supporting GET, POST, DELETE, CGI, virtual hosts | C++ | Group |
-| [🐚 Minishell](https://github.com/elecarlier/Minishell) | Reverse-engineering a Unix shell — parsing, pipes, redirections, built-ins | C | Duo |
-| [💡 miniRT](https://github.com/elecarlier/miniRT) | Raytracer modelling 3D objects and simulating light beams | C | Duo |
+| [Transcendence](https://github.com/elecarlier/Transcendence) | Full-stack real-time Pong platform with tournaments, chat, user profiles and microservices architecture | TypeScript, Vue 3, Fastify, RabbitMQ, WebSockets, Docker | Group |
+| [webserv](https://github.com/elecarlier/webserv) | From-scratch HTTP/1.1 web server supporting GET, POST, DELETE, CGI, virtual hosts | C++ | Group |
+| [Minishell](https://github.com/elecarlier/Minishell) | Reverse-engineering a Unix shell — parsing, pipes, redirections, built-ins | C | Duo |
+| [miniRT](https://github.com/elecarlier/miniRT) | Raytracer modelling 3D objects and simulating light beams | C | Duo |
 
 ---
 
-## 👤 42 Berlin — Solo Projects
+## 42 Berlin — Solo Projects
 
 Individual projects completed during the 42 Common Core curriculum.
 
 | Project | Description | Tech |
 |---|---|---|
-| [🌀 fract-ol](https://github.com/elecarlier/fract-ol) | Fractal explorer rendering Mandelbrot & Julia sets with zoom & color | C |
-| [🍝 philosophers](https://github.com/elecarlier/philosophers_42) | Dining philosophers problem — threading & mutex synchronization | C |
-| [📡 Minitalk](https://github.com/elecarlier/Minitalk) | Client-server communication using UNIX signals (bit by bit) | C |
-| [🔄 push_swap](https://github.com/elecarlier/push_swap) | Sorting algorithm with a limited instruction set and two stacks | C |
-| [🖨️ ft_printf](https://github.com/elecarlier/ft_printf) | Reimplementation of the C `printf` function | C |
-| [⚙️ C++ Modules](https://github.com/elecarlier/Cpp) | 42's C++ module series covering OOP, templates, STL, and more | C++ |
-| [📊 Data Science Piscine](https://github.com/elecarlier/Data-Science-Piscine-42) | 42's intensive data science bootcamp exercises | Python |
+| [fract-ol](https://github.com/elecarlier/fract-ol) | Fractal explorer rendering Mandelbrot & Julia sets with zoom & color | C |
+| [philosophers](https://github.com/elecarlier/philosophers_42) | Dining philosophers problem — threading & mutex synchronization | C |
+| [Minitalk](https://github.com/elecarlier/Minitalk) | Client-server communication using UNIX signals (bit by bit) | C |
+| [push_swap](https://github.com/elecarlier/push_swap) | Sorting algorithm with a limited instruction set and two stacks | C |
+| [ft_printf](https://github.com/elecarlier/ft_printf) | Reimplementation of the C `printf` function | C |
+| [C++ Modules](https://github.com/elecarlier/Cpp) | 42's C++ module series covering OOP, templates, STL, and more | C++ |
+| [Data Science Piscine](https://github.com/elecarlier/Data-Science-Piscine-42) | 42's intensive data science bootcamp exercises | Python |
 
 ---
 
-## 🚀 Personal Projects
+## Personal Projects
 
 Projects I built out of curiosity, passion, or to keep learning.
 
 | Project | Description | Tech |
 |---|---|---|
-| [🔍 MLDepthLayers](https://github.com/elecarlier/MLDepthLayers) | Machine learning exploration for depth layer analysis — linked to my lenticular photography research | Python |
-| [🧩 Advent of Code 2025](https://github.com/elecarlier/Aoc25) | My solutions for AoC 2025 | Python |
-| [🧩 Advent of Code 2024](https://github.com/elecarlier/AoC24) | My solutions for AoC 2024 | C++ |
-| [🎮 Tetris](https://github.com/elecarlier/Tetris-c-) | Tetris clone built in C++ | C++ |
-| [📚 Fullstack Open](https://github.com/elecarlier/fullstackopen) | Following the University of Helsinki's fullstack open course | JavaScript |
+| [MLDepthLayers](https://github.com/elecarlier/MLDepthLayers) | Machine learning exploration for depth layer analysis — linked to my lenticular photography research | Python |
+| [Advent of Code 2025](https://github.com/elecarlier/Aoc25) | My solutions for AoC 2025 | Python |
+| [Advent of Code 2024](https://github.com/elecarlier/AoC24) | My solutions for AoC 2024 | C++ |
+| [Tetris](https://github.com/elecarlier/Tetris-c-) | Tetris clone built in C++ | C++ |
+| [Fullstack Open](https://github.com/elecarlier/fullstackopen) | Following the University of Helsinki's fullstack open course | JavaScript |
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eleonorecarlier@hotmail.be)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elecarlier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonore-carlier-53b90b308)

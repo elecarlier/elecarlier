@@ -2,7 +2,7 @@
 
 > *Software Engineer · Visual Arts Enthusiast · 42 Berlin Graduate*
 
-🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; Based in Paris, France &nbsp;|&nbsp; From Belgium 🇧🇪 &nbsp;|&nbsp; eleonorecarlier@hotmail.be
+🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; Based in Berlin, Germany &nbsp;|&nbsp; From Belgium 🇧🇪 &nbsp;|&nbsp; eleonorecarlier@hotmail.be
 
 ---
 
@@ -59,11 +59,13 @@ Individual projects completed during the 42 Common Core curriculum.
 ---
 
 ## Personal Projects
+## Personal Projects
 
 Projects I built out of curiosity, passion, or to keep learning.
 
 | Project | Description | Tech |
 |---|---|---|
+| PrintCalibrator *(private)* | CLI tool for preparing images for lenticular printing — generates calibration patterns, handles precise lens alignment and pixel-level offset correction | Python |
 | [MLDepthLayers](https://github.com/elecarlier/MLDepthLayers) | Machine learning exploration for depth layer analysis — linked to my lenticular photography research | Python |
 | [Advent of Code 2025](https://github.com/elecarlier/Aoc25) | My solutions for AoC 2025 | Python |
 | [Advent of Code 2024](https://github.com/elecarlier/AoC24) | My solutions for AoC 2024 | C++ |

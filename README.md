@@ -1,64 +1,78 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elecarlier.elecarlier&left_color=%236a0dad&right_color=%236a0dad" />
+# Hallo Welt, I'm Eléonore 👋
 
-<h1 align="center" style="color:#6a0dad;">Hallo Welt, I'm Eléonore</h1>
-<h3 align="center" style="color:#6a0dad;">Software engineering graduate from 42 Berlin</h3>
+> *Software Engineer · Visual Arts Enthusiast · 42 Berlin Graduate*
 
-
-🎓 Graduate of **42 Berlin**  
-🌍 Temporarily based in **Paris, France**, originally from Belgium 🇧🇪  
-🔬 Currently exploring **lenticular photography research**  
-
-- 📫 Reach me: **eleonorecarlier@hotmail.be**  
+🎓 Graduate of **42 Berlin** &nbsp;|&nbsp; 🌍 Paris, France &nbsp;|&nbsp; 🇧🇪 From Belgium &nbsp;|&nbsp; 📫 eleonorecarlier@hotmail.be
 
 ---
+
 ## 🌟 About Me
-- Passionate about technology and creative projects  
-- Combining software knowledge with visual arts research  
-- Always curious to learn and experiment  
+
+I'm a software engineer with a passion for combining technical precision with creative vision. Currently exploring the intersection of code and visual arts through research in **lenticular photography**.
+
+- 🔬 Researching lenticular photography & depth-based imaging
+- 🧩 Love solving algorithmic puzzles (Advent of Code addict)
+- 🎨 Passionate about projects where tech meets art
 
 ---
 
-## 💡 Current Focus
-- Research and experimentation in **lenticular photography**  
-- Exploring innovative ways to combine tech and visual storytelling  
----
-<h3 align="left" style="color:#6a0dad;">🛠️ Project Highlight: Pong Tournament Web App</h3>
-<p>
-A full-stack web application enabling users to play real-time Pong matches either locally or remotely.  
-It features AI opponents, live tournaments, secure authentication, match stats, and multilingual support.  
+## 🛠️ Tech Stack
 
-Built with <b>TypeScript</b>, <b>Fastify (Node.js)</b>, <b>Tailwind CSS</b>, and <b>WebSockets</b> for real-time interaction.  
-Everything runs in <b>Dockerized microservices</b> for easy deployment and scalability.
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
+## 🎓 42 Berlin — Group Projects
 
-<h3 align="left" style="color:#6a0dad;">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/%c3%a9l%c3%a9onore-carlier-53b90b308/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+These projects were built collaboratively at 42 Berlin, requiring strong communication, code review, and teamwork.
 
----
-
-<h3 align="left" style="color:#6a0dad;">🧰 Tech Stack</h3>
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
-  <br/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-  <br/>
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
+| Project | Description | Tech | Team |
+|---|---|---|---|
+| [🏓 Transcendence](https://github.com/elecarlier/Transcendence) | Full-stack real-time Pong platform with tournaments, chat, user profiles and microservices architecture | TypeScript, Vue 3, Fastify, RabbitMQ, WebSockets, Docker | Group |
+| [🌐 webserv](https://github.com/elecarlier/webserv) | From-scratch HTTP/1.1 web server supporting GET, POST, DELETE, CGI, virtual hosts | C++ | Group |
+| [🐚 Minishell](https://github.com/elecarlier/Minishell) | Reverse-engineering a Unix shell — parsing, pipes, redirections, built-ins | C | Duo |
+| [💡 miniRT](https://github.com/elecarlier/miniRT) | Raytracer modelling 3D objects and simulating light beams | C | Duo |
 
 ---
 
-[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact&theme=dracula" alt="elecarlier" /></p>](https://github-readme-stats.vercel.app/api/top-langs?username=elecarlier&show_icons=true&locale=en&layout=compact&theme=dracula&cache_seconds=0)
+## 👤 42 Berlin — Solo Projects
+
+Individual projects completed during the 42 Common Core curriculum.
+
+| Project | Description | Tech |
+|---|---|---|
+| [🌀 fract-ol](https://github.com/elecarlier/fract-ol) | Fractal explorer rendering Mandelbrot & Julia sets with zoom & color | C |
+| [🍝 philosophers](https://github.com/elecarlier/philosophers_42) | Dining philosophers problem — threading & mutex synchronization | C |
+| [📡 Minitalk](https://github.com/elecarlier/Minitalk) | Client-server communication using UNIX signals (bit by bit) | C |
+| [🔄 push_swap](https://github.com/elecarlier/push_swap) | Sorting algorithm with a limited instruction set and two stacks | C |
+| [🖨️ ft_printf](https://github.com/elecarlier/ft_printf) | Reimplementation of the C `printf` function | C |
+| [⚙️ C++ Modules](https://github.com/elecarlier/Cpp) | 42's C++ module series covering OOP, templates, STL, and more | C++ |
+| [📊 Data Science Piscine](https://github.com/elecarlier/Data-Science-Piscine-42) | 42's intensive data science bootcamp exercises | Python |
+
+---
+
+## 🚀 Personal Projects
+
+Projects I built out of curiosity, passion, or to keep learning.
+
+| Project | Description | Tech |
+|---|---|---|
+| [🔍 MLDepthLayers](https://github.com/elecarlier/MLDepthLayers) | Machine learning exploration for depth layer analysis — linked to my lenticular photography research | Python |
+| [🧩 Advent of Code 2025](https://github.com/elecarlier/Aoc25) | My solutions for AoC 2025 | Python |
+| [🧩 Advent of Code 2024](https://github.com/elecarlier/AoC24) | My solutions for AoC 2024 | C++ |
+| [🎮 Tetris](https://github.com/elecarlier/Tetris-c-) | Tetris clone built in C++ | C++ |
+| [📚 Fullstack Open](https://github.com/elecarlier/fullstackopen) | Following the University of Helsinki's fullstack open course | JavaScript |
+
+---
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eleonorecarlier@hotmail.be)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elecarlier)

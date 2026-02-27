@@ -26,6 +26,8 @@ I'm a software engineer with a passion for combining technical precision with cr
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -59,13 +61,13 @@ Individual projects completed during the 42 Common Core curriculum.
 ---
 
 ## Personal Projects
-## Personal Projects
 
 Projects I built out of curiosity, passion, or to keep learning.
 
 | Project | Description | Tech |
 |---|---|---|
-| PrintCalibrator *(private)* | CLI tool for preparing images for lenticular printing — generates calibration patterns, handles precise lens alignment and pixel-level offset correction | Python |
+| [miredit](https://github.com/elecarlier/miredit) | CLI tool for lenticular print preparation — automates pixel-level modifications to images exported from Lenticular Suite, adapting registration marks for oversized or same-size plate configurations | Python, NumPy, Pillow |
+| print_calibrator *(private)* | Generates calibration mires, places images on them with sub-lens precision, and produces adjustment mires to correct residual print offsets | Python, Pillow |
 | [MLDepthLayers](https://github.com/elecarlier/MLDepthLayers) | Machine learning exploration for depth layer analysis — linked to my lenticular photography research | Python |
 | [Advent of Code 2025](https://github.com/elecarlier/Aoc25) | My solutions for AoC 2025 | Python |
 | [Advent of Code 2024](https://github.com/elecarlier/AoC24) | My solutions for AoC 2024 | C++ |
